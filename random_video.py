@@ -1,0 +1,3 @@
+# At this point, I haven't yet found a solution to randomize videos on YouTube, so...
+print("At this point, I haven't yet found a solution to randomize videos on YouTube, so...")
+print("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
